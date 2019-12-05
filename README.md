@@ -39,12 +39,11 @@ To run from command line:
  
  These bad measurements are however - 
  
- Noted in standard output
+ * Noted in standard output
     
- Counted and reported at end of measurement process
+ * Counted and reported at end of measurement process
     
- Subtracted from usable data points, reported at end of CSV (check.py) analysis, in the from of how many data points
- used.
+ * Subtracted from usable data points, reported at end of CSV (check.py) analysis, in the from of how many data points used.
       
  check.py also creates a list of python "datetime" objects. These arn't fully used. I overestimated the capabilities of 
  the sensor and the datetime objects can't be used for much more than finding time between pulses, and total time. 
