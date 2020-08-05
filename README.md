@@ -1,4 +1,4 @@
-# CS370Project
+# Multithreaded Sonor Ruler
 # Cade, Steve, AJ
 
 [ USAGE ]
