@@ -1,4 +1,4 @@
-# Multithreaded Sonor Ruler
+# Multithreaded Sonar Ruler
 # Cade, Steve, AJ
 
 [ USAGE ]
